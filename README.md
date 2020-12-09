@@ -1,1 +1,4 @@
-This is the repository for the take-home final exam question.  Make sure you edit this readme so that it contains the required information.
+Ashmethaa Arulanantham
+1072965
+aarulana@uogulph.ca
+I did my own work.
